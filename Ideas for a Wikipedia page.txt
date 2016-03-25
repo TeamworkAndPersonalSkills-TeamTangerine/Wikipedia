@@ -1,4 +1,5 @@
-﻿Тук добавяйте вашите идеи за статии в Wikipedia (Краен срок - 01.04.2016 г.):
+﻿Тук добавяйте вашите идеи за статии в Wikipedia:
 
 Езотерични програмни езици -> https://en.wikipedia.org/wiki/Esoteric_programming_language
 Дълбоката (тъмната) мрежа -> https://en.wikipedia.org/wiki/Deep_web
+LOLCODE (програмен език) -> https://en.wikipedia.org/wiki/LOLCODE
