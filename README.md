@@ -1,2 +1,2 @@
 # Wikipedia
-Our Wikipedia project.
+Машинките от СофтУни, правещи проект по Teamwork and Personal Skills :)
