@@ -3,3 +3,7 @@
 Езотерични програмни езици -> https://en.wikipedia.org/wiki/Esoteric_programming_language
 Дълбоката (тъмната) мрежа -> https://en.wikipedia.org/wiki/Deep_web
 LOLCODE (програмен език) -> https://en.wikipedia.org/wiki/LOLCODE
+Common Lisp (програмен език) -> https://en.wikipedia.org/wiki/Common_Lisp
+Динамични езици -> https://en.wikipedia.org/wiki/Dynamic_programming_language
+
+
